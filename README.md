@@ -1,6 +1,10 @@
 # sternal-fixation
 Analysis of effects of patient variability on rigid sternal fixation. Python scripts are used in conjunction with Abaqus to generate finite element models (FEA).
 
+<img src= "Original Local Model.tif">
+
+<img src= "fea_1.png">
+
 # References
 * N. B. Price, N. H. Kim, B. Wilcox, and B. Hatcher, “Design Study on Stability & Safety of Median Sternotomy Fixation,” presented at the ASB 36TH Annual Conference, Gainesville, Florida, 2012, vol. 79, p. 67.
 
