@@ -1,8 +1,6 @@
 # sternal-fixation
 Analysis of effects of patient variability on rigid sternal fixation. Python scripts are used in conjunction with Abaqus to generate finite element models (FEA).
 
-<img src= "local_model.png">
-
 <img src= "fea_1.png">
 
 # References
